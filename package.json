@@ -6,7 +6,18 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "publisher": "Narvdeshwar",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Narvdeshwar/Vs-code-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Narvdeshwar/Vs-code-extension/issues"
+  },
+  "homepage": "https://github.com/Narvdeshwar/Vs-code-extension#readme",
   "categories": [
+    "Accessibility",
     "Other"
   ],
   "activationEvents": [
