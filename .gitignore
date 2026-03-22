@@ -1,0 +1,16 @@
+out
+node_modules
+.vscode-test
+*.vsix
+temp
+dist
+package-lock.json
+.DS_Store
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/extensions.json
+*.log
+test-voice.js
+test_success.mp3
+test_fail.mp3
+test_failure.mp3
